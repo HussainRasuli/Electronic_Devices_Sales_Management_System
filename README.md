@@ -17,7 +17,6 @@ Home Page.
 Employees Registration Form.
 
 ![pic5](https://user-images.githubusercontent.com/62686803/100536700-f209f780-323f-11eb-8473-e428b0f6af65.PNG)
-![Uploading pic4.PNG…]()
 
 
 Employees List.
