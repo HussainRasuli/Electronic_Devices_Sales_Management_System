@@ -1,1 +1,1 @@
-# electronic_device_sales_management_system
+# electronic_devices_sales_management_system
