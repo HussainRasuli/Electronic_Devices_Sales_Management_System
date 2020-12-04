@@ -22,3 +22,15 @@ Employees Registration Form.
 Employees List.
 
 ![pic4](https://user-images.githubusercontent.com/62686803/100536710-fe8e5000-323f-11eb-926e-a7c1024639b5.PNG)
+
+Product.
+
+![Capture7](https://user-images.githubusercontent.com/62686803/101203167-e8412380-3687-11eb-928c-31bbe588f191.PNG)
+
+Payroll.
+
+![Capture9](https://user-images.githubusercontent.com/62686803/101203227-fe4ee400-3687-11eb-988d-3e62ac1ce81c.PNG)
+
+Calculate employees salaries.
+
+![Capture10](https://user-images.githubusercontent.com/62686803/101203272-0eff5a00-3688-11eb-84d4-72631fd168c7.PNG)
